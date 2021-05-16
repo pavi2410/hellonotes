@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">hellonotes</string>
+    <string name="title_activity_main">hellonotes</string>
+    <string name="package_name">hello.notes</string>
+    <string name="custom_url_scheme">hello.notes</string>
+</resources>

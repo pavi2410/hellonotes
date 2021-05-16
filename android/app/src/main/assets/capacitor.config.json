@@ -1,0 +1,6 @@
+{
+	"appId": "hello.notes",
+	"appName": "hellonotes",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
